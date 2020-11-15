@@ -18,7 +18,6 @@ const SearchHeader = memo(({onSearch}) => {
             if(event.key === 'Enter'){
                 handleSearch();
             }
-    
         }
         return (
             <header className={styles.header}>
