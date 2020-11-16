@@ -14,3 +14,6 @@
 
 ### 검색 기능
 * 사용자가 검색어를 입력한 후 버튼을 누르거나 엔터키를 누르면 검색된 데이터가 나오게 됩니다.
+![youtube-search](https://user-images.githubusercontent.com/72989367/99219908-f0dcd180-2820-11eb-8e04-dce14ea06615.gif)
+
+### 반응형 
