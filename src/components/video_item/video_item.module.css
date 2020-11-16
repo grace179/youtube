@@ -1,6 +1,7 @@
 .container{
     /* margin-bottom: 0.2em; */
     padding: 0.2em;
+    background: #fff;
 }
 
 .container.grid{
@@ -18,6 +19,7 @@
     cursor: pointer;
     transition: transform 250ms ease-in;
     box-shadow : 2px 2px 3px #e2e2e2;
+    overflow: hidden;
 }
 
 .video:hover{

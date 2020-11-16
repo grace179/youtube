@@ -1,9 +1,11 @@
 .app{
-  max-width: 80rem
+  max-width: 80rem;
 }
 
 .content{
   display: flex;
+  padding: 0.8em;
+  background-color: rgb(247, 247, 247);
 }
 
 .content .detail{
@@ -18,4 +20,5 @@
   .content {
     flex-direction: column;
   }
+
 }
