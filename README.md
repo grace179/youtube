@@ -1,6 +1,8 @@
 # Youtube Clone Coding
+* [데모링크](https://5fb326c7809ffb00a23cdf47--grace179-youtube-clone.netlify.app/)
 * 사용한 언어: HTML, CSS(PostCss), React
 * Google Youtube API 사용
+* 배포 : netlify
 --------------------------------------
 ### 메인 화면
 * 사이트에 접속하면 youtube api를 통해 가져온 비디오 리스트 25개가 뜹니다.
